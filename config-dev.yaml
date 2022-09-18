@@ -1,2 +1,2 @@
-"code": "200",
-"message": "插入数据库成功，IP & serverPort = 192.168.3.18:8002",
+config:
+  info: "master branch,springcloud-config/config-dev.yml version=1"
